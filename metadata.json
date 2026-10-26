@@ -1,0 +1,6 @@
+{
+  "name": "U&Me Associates - Enterprise Indian Tax Compliance Platform",
+  "description": "All-in-one cloud platform for Indian GST, Income Tax (ITR), and TDS compliance for Chartered Accountants, Tax Practitioners, and Corporates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
